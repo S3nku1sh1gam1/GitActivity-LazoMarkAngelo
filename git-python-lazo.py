@@ -16,3 +16,5 @@ print("Colloge: Marinduque, State College")
 print("Course: Bachelor of Science in Information and Technology ")
 
 print("Year and Section: 2B")
+
+print("My Hobbies are: Playing online games, Tabble Tennis, Basket Ball, Badminton, Playing guitar")
