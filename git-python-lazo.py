@@ -10,3 +10,9 @@ print("Name: Mark Angelo Lazo")
 print("Address: Mataas na Bayan,Mogpog, Marinduque")
 
 print("Birthdate: January 14, 2003")
+
+print("Colloge: Marinduque, State College")
+
+print("Course: Bachelor of Science in Information and Technology ")
+
+print("Year and Section: 2B")
